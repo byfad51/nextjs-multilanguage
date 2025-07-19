@@ -1,0 +1,13 @@
+{
+    "home": {
+        "title": "Welcome",
+        "subtitle": "Multi-language website with Next.js",
+        "description": "This page supports Turkish and English languages.",
+        "getStarted": "Get Started",
+        "learnMore": "Learn More"
+    },
+    "language": {
+        "tr": "Turkish",
+        "en": "English"
+    }
+}

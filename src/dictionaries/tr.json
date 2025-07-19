@@ -1,0 +1,13 @@
+{
+    "home": {
+        "title": "Hoş Geldiniz",
+        "subtitle": "Next.js ile çok dilli web sitesi",
+        "description": "Bu sayfa Türkçe ve İngilizce dil desteğine sahiptir.",
+        "getStarted": "Başlayın",
+        "learnMore": "Daha Fazla"
+    },
+    "language": {
+        "tr": "Türkçe",
+        "en": "İngilizce"
+    }
+}
